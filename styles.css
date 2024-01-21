@@ -34,7 +34,7 @@ div.recipe-image-board {
 }
 
 .front-images {
-    display: inline-block;
+    display: inline-flex;
     height: 200px;
     width: auto;
     margin: 8px;

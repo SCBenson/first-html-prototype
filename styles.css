@@ -27,28 +27,32 @@ li {
     margin-left: 20px;
 }
 
-div.recipe-image-board {
-    border: 2px solid blue;
-    background: antiquewhite;
+.flex-container {
     margin-top: 8px;
+    display: flex;
+}
+
+.flex-container img {
+    flex: 1;
 }
 
 .front-images {
     display: flexbox;
     margin: 8px;
+    border: 5px solid chocolate;
 }
 
 #wiener {
-    width:auto;
-    height: 200px;
+    margin-right: 25px;
+    height:300px;
 } 
 
 #ribeye {
-    width: auto;
-    height: 200px;
+    margin-right: 25px;
+    height:300px;
 }
 
 #calzone {
-    width: auto;
-    height: 200px;
+    margin-right: 25px;
+    height:300px;
 }

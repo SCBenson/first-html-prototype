@@ -1,0 +1,27 @@
+html {
+    background: moccasin;
+}
+
+
+h1 {
+    background: antiquewhite;
+    border: 1px solid grey;
+    color: chocolate;
+    font-family: 'sofia';
+    text-align: center;
+}
+
+
+ul {
+    display: flex;
+    border: 1px solid grey;
+    background: antiquewhite;
+    font-family: sans-serif;
+    padding: 0px;
+}
+li {
+    color: black;
+    list-style: none;
+    width: auto;
+    margin: 8px;
+}

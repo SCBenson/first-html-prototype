@@ -34,8 +34,21 @@ div.recipe-image-board {
 }
 
 .front-images {
-    display: inline-flex;
-    height: 200px;
-    width: auto;
+    display: flexbox;
     margin: 8px;
+}
+
+#wiener {
+    width:auto;
+    height: 200px;
+} 
+
+#ribeye {
+    width: auto;
+    height: 200px;
+}
+
+#calzone {
+    width: auto;
+    height: 200px;
 }

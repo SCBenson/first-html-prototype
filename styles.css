@@ -41,13 +41,16 @@ div.image-container {
 }
 
 #wiener {
-    height:150px;
+    width: 100%;
+    height: 600px;
 } 
 
 #ribeye {
-    height:150px;
+    width: 100%;
+    height: 600px;
 }
 
 #calzone {
-    height:150px;
+    width: 100%;
+    height: 600px;
 }

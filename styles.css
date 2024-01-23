@@ -21,12 +21,16 @@ ul {
 }
 
 div.nav-container {
+    border: 1px solid grey;
+    background-color: antiquewhite;
+    padding: 5px 0px 5px 0px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     margin-bottom: 8px;
 }
 
 span {
     list-style: none;
+    margin-left: 1px;
 }
 
